@@ -2,7 +2,7 @@
 
 Here is simple BLE test code for sending data from xiao development board to a smartphone. 
 
-I can use this code only can be used bluetooth ESP devices. I used XIAO-C6.
+I can use this code only can be used for ESP devices. I used XIAO-C6.
 
 Starts:
 
